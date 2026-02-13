@@ -1,0 +1,24 @@
+# Build artifacts
+catalog/
+*.tar
+*.tar.gz
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test outputs
+test-output/
+verification-*.txt
+
+# Local configuration
+local.env
+.env
